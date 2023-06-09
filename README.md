@@ -1,5 +1,5 @@
 # LHST_project_spring_23
-Bachelor Project : Questioning views about the future in the newspapers of the 19th century.
+Bachelor Project : Quantifying views about the future during the Second Industrial Revolution (1840-1920)
 
 Lina Bousbina and Tamara Antoun <br>
 Supervisors: Elena Fernandez Fernandez, Jérome Baudry <br>
