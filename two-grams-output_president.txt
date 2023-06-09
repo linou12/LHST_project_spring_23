@@ -1,2 +1,0 @@
--------------------------BLOCK_1-----------------------Two-grams before 'le président':
--------------------------BLOCK_1-----------------------Two-grams after 'le président':
