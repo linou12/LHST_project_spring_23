@@ -1,1 +1,1 @@
-
+The dataset used in this project, specifically the New York Herald Data, has a total size of approximately 15GB. Due to the large size of the data, it was necessary to run the Python files overnight to process the data and obtain the desired outputs. The extensive processing time was required to handle the volume of information and perform the necessary computations accurately.
